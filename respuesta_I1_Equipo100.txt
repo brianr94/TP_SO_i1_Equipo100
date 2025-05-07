@@ -2,6 +2,9 @@ Integrantes del Grupo 100:
 
 Kevin Antón
 Josefina Alcaraz
+Brian Riani
 
 a- si, puede verlos en este caso usando projects o usando commits para ver los cambios que hacen los demás integrantes del grupo.
 b- si, siempre y cuando el alfa documente el cambio que realizo en el archivo mediante commits.
+c- Si.
+d- Utilizando discord y a traves de la herramienta proyect.
