@@ -8,3 +8,4 @@ a- si, puede verlos en este caso usando projects o usando commits para ver los c
 b- si, siempre y cuando el alfa documente el cambio que realizo en el archivo mediante commits.
 c- Si.
 d- Utilizando discord y a traves de la herramienta proyect.
+e-A través de la herramienta de Proyect y commits del proyecto.
